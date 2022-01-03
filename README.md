@@ -5,5 +5,5 @@ It should output: `France`
 
 Interesting files:
 
-- App.java
-- build.gradle.kts
+- [App.java](https://github.com/coordinates2country/sample/blob/main/app/src/main/java/io/github/coordinates2country/sample/App.java#L14)
+- [build.gradle.kts](https://github.com/coordinates2country/sample/blob/main/app/build.gradle.kts#L24)
