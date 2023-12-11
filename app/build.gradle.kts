@@ -21,7 +21,7 @@ dependencies {
     testImplementation("junit:junit:4.13.2")
 
     // This dependency is used by the application.
-    implementation("io.github.coordinates2country:coordinates2country:1.2")
+    implementation("io.github.coordinates2country:coordinates2country:1.3")
 }
 
 application {
